@@ -1,0 +1,1 @@
+A Hub Datapack to add access to the vanilla game.
