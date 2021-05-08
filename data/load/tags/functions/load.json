@@ -1,7 +1,6 @@
 {
     "values": [
     	"#load:rx/playerdb",
-        "hubvanilla:start/setup",
 		"rx:load"
     ]
 }
