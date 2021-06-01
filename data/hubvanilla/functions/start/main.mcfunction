@@ -1,0 +1,1 @@
+execute as @s[gamemode=adventure] run gamemode survival
