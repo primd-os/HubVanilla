@@ -1,1 +1,1 @@
-execute as @s[gamemode=adventure] run gamemode survival
+execute in minecraft:overworld as @a[x=0,gamemode=adventure] run gamemode survival

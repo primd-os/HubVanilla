@@ -1,6 +1,3 @@
 {
-    "values": [
-    	"#load:rx/playerdb",
-		"rx:load"
-    ]
+    "values": []
 }
