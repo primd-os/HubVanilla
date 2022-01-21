@@ -1,0 +1,1 @@
+execute if predicate hub:in_survival run function hubvanilla:start/save_data

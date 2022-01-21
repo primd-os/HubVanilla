@@ -1,5 +1,6 @@
 {
     "values": [
-        "hubvanilla:start/setup"
+        "hubvanilla:start/setup",
+        "hub:start/setup"
     ]
 }
