@@ -5,4 +5,4 @@ team modify vanilla.Team friendlyFire true
 
 scoreboard objectives add vanilla.deaths deathCount
 
-function hubvanilla:start/main
+schedule function hubvanilla:start/main 1t replace
