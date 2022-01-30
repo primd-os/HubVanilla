@@ -1,0 +1,1 @@
+execute if score @s warp = GameId vanilla.Variables run function hubvanilla:start/join
