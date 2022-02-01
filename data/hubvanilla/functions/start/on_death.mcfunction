@@ -1,4 +1,7 @@
+team leave @s
 tellraw @a[predicate=hub:in_survival] [{"selector":"@s"}," has died"]
+team join vanilla.Team @s
+
 scoreboard players set @s vanilla.deaths 0
 
 setblock ~ ~ ~ yellow_shulker_box destroy
