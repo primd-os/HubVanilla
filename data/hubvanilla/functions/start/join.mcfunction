@@ -1,7 +1,6 @@
 execute in minecraft:overworld run tp @s 0 254 0
 team join vanilla.Team @s
 gamemode survival
-scoreboard players set @s hub.fallDmgPercent 100
 scoreboard players set @s vanilla.deaths 0
 
 function #rx.playerdb:api/v2/get/self
